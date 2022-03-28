@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 14,
+      "name": "fegegweb",
+      "place": "aa",
+      "comment": "dd1"
+    },
+    {
+      "id": 13,
+      "name": "fegegweb",
+      "place": "dd",
+      "comment": "dd"
+    },
+    {
+      "id": 15,
+      "name": "san",
+      "place": "hyd",
+      "comment": "dda"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
